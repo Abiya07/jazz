@@ -1,0 +1,9 @@
+com\spring\service\UserService.class
+com\spring\service\UserServiceImpl.class
+com\spring\dao\UserDAOImpl.class
+com\spring\dao\UserDAO.class
+com\spring\beans\Login.class
+com\spring\controllers\LoginController.class
+com\spring\dao\UserMapper.class
+com\spring\controllers\RegistrationController.class
+com\spring\beans\User.class
